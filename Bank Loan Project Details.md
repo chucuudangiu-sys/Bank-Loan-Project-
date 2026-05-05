@@ -69,4 +69,5 @@ Applicants who rent their homes have a higher risk of default compared to mortga
 ---
 
 **View the SQL Queries:** https://github.com/chucuudangiu-sys/Bank-Loan-Project-/edit/main/README.md#:~:text=README.md-,datascrpit,-.sql
+
 **View the Dashboard:** https://public.tableau.com/app/profile/nam.pham5054/viz/BankLoanProject_17778869406110/Summary
